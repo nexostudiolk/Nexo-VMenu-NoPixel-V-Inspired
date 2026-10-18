@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="ima323ge" src="https://github.com/user-attachments/assets/067b5a89-d914-40e1-b977-a0eedc4ec1ef" />
+
 # Nexo Vehicle Control Menu
 
 **A Modern NoPixel V-Inspired Vehicle Control Menu for FiveM**
